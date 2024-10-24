@@ -1,0 +1,1 @@
+I know its not organised the best, but it is a working draft. Currently, I need to do the styling for the other elements in the projects page. I also wanted to add a resume section (talk through it a bit). 
